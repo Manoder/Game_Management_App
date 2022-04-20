@@ -1,2 +1,24 @@
-# Game_Management_App
-This is a simple Vue.js project and a perfect project for beginners to learn and skill up in Vue.js. This Game Management Project is made in "Vue.js 3" version and we learnt everything from scratch.
+# resto-project
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
